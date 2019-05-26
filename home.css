@@ -1,0 +1,19 @@
+@import "blog.css";
+
+.quote_text pre {
+	font-family: inherit;
+	line-height: 1.5;
+}
+
+.quote_text {
+	text-align: center;
+	padding: 20px 20px 0;
+}
+
+.source {
+	text-align: center;
+}
+
+#content {
+	background: url(quote.png) no-repeat 12em 0;
+}
